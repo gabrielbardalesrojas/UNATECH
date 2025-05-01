@@ -1,0 +1,23 @@
+unatech-repair/
+│
+├── index.html              # Archivo HTML principal
+│
+├── css/
+│   └── styles.css          # Estilos CSS unificados
+│
+├── js/
+│   └── script.js           # JavaScript para funcionalidades interactivas
+│
+└── img/                    # Carpeta para imágenes (deberás agregar tus propias imágenes)
+    ├── hero-image.png
+    ├── why-us.png
+    ├── project-1.jpg
+    ├── project-2.jpg
+    ├── ...
+    ├── testimonial-1.jpg
+    ├── testimonial-2.jpg
+    ├── ...
+    ├── brand-1.png
+    ├── brand-2.png
+    ├── ...
+    └── map.jpg
